@@ -1,5 +1,5 @@
 *.pyc
-*.mplstyle
 *.ipynb_checkpoints*
 *__pycache__*
- 
+*.npy
+*logs*
